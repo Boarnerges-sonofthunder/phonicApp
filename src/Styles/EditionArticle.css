@@ -1,0 +1,139 @@
+.sectionEditionArticle {
+  margin-top: 20px;
+}
+
+.caseArticle {
+  display: flex;
+  margin-top: 50px;
+  padding: 0 10px;
+  gap: 10px;
+}
+
+.caseArticle img {
+  max-width: 15vh;
+  height: 100%;
+  object-fit: cover;
+}
+
+.caseArticle form {
+  display: flex;
+  flex-direction: column;
+}
+
+.caseArticle form span {
+  font-size: 1em;
+  font-weight: bold;
+}
+
+.sectionEditionArticle .btn-Modal{
+  display: flex;
+  justify-content: center;
+}
+
+.sectionEditionArticle .btn-Modal a {
+  padding: 0.6em 2em;
+  border: none;
+  outline: none;
+  color: rgb(255, 255, 255);
+  background: #111;
+  cursor: pointer;
+  position: relative;
+  z-index: 0;
+  border-radius: 10px;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  margin-top: 50px;
+  width: 20vh;
+  text-decoration: none;
+  transition: all 0.3s ease-out;
+  display: flex;
+  justify-content: center;
+}
+
+.sectionEditionArticle .btn-Modal a:before {
+  content: "";
+  background: linear-gradient(
+    45deg,
+    #ff0000,
+    #ff7300,
+    #fffb00,
+    #48ff00,
+    #00ffd5,
+    #002bff,
+    #7a00ff,
+    #ff00c8,
+    #ff0000
+  );
+  position: absolute;
+  top: -2px;
+  left: -2px;
+  background-size: 400%;
+  z-index: -1;
+  filter: blur(5px);
+  -webkit-filter: blur(5px);
+  width: calc(100% + 4px);
+  height: calc(100% + 4px);
+  animation: glowing-button-85 20s linear infinite;
+  transition: opacity 0.3s ease-in-out;
+  border-radius: 10px;
+}
+
+.sectionEditionArticle .btn-Modal a:after {
+  z-index: -1;
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background: #222;
+  left: 0;
+  top: 0;
+  border-radius: 10px;
+}
+
+.caseArticle form .input-field {
+  position: relative;
+  height: 40px;
+  width: 200px;
+  margin: 10px;
+}
+
+.caseArticle form .input-field input {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  padding: 0;
+  border: none;
+  outline: none;
+  border-bottom: 2px solid #ccc;
+  border-top: 2px solid transparent;
+  font-size: 16px;
+  transition: all 0.2s ease;
+}
+
+@media screen and (width >= 67.5em) {
+  .caseArticle {
+    width: 100%;
+  }
+
+  .caseArticle img {
+    max-width: 50vh;
+  }
+
+  .caseArticle form {
+    width: 100%;
+  }
+
+  .caseArticle form .input-field {
+    width: 500px;
+  }
+
+  .sectionEditionArticle .btn-Modal a {
+    width: 40vh;
+    height: 10vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+}

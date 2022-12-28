@@ -1,0 +1,133 @@
+.section-catalogue {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  max-width: 1080px;
+  margin: 10px auto;
+  row-gap: 20px;
+}
+
+.section-catalogue .article-case .article-img img {
+  max-width: 15vh;
+  height: 100%;
+  object-fit: cover;
+}
+
+.article-img {
+  max-width: 100%;
+  height: 100%;
+}
+
+.article-img .link {
+  outline: none;
+}
+
+.article-case {
+  display: flex;
+  gap: 1rem;
+  padding: 1rem 0;
+}
+
+.article-info {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  height: 100%;
+  row-gap: 1rem;
+}
+
+.article-info .description {
+  font-size: 13px;
+}
+
+.paginationBttns {
+  display: flex;
+  justify-content: center;
+  list-style: none;
+  cursor: pointer;
+  width: 100%;
+  height: 40px;
+}
+
+.paginationBttns a {
+  margin: 8px;
+  padding: 5px;
+  border-radius: 5px;
+  border: 1px solid rgb(13, 0, 255);
+  color: blue;
+}
+
+.paginationActive a {
+  background-color: rgb(13, 0, 255);
+  color: white;
+}
+
+.article-info .link {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  margin: 0 0 0 auto;
+  background: #ff4742;
+  border: 1px solid #ff4742;
+  border-radius: 6px;
+  box-shadow: rgba(0, 0, 0, 0.1) 1px 2px 4px;
+  box-sizing: border-box;
+  color: #ffffff;
+  cursor: pointer;
+  display: inline-block;
+  font-family: nunito, roboto, proxima-nova, "proxima nova", sans-serif;
+  font-size: 16px;
+  font-weight: 800;
+  line-height: 16px;
+  min-height: 40px;
+  outline: 0;
+  padding: 12px 14px;
+  text-align: center;
+  text-rendering: geometricprecision;
+  text-transform: none;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  vertical-align: middle;
+}
+
+.article-info .link:hover,
+.article-info .link:active {
+  background-color: initial;
+  background-position: 0 0;
+  color: #ff4742;
+}
+
+.article-info .link:active {
+  opacity: 0.5;
+}
+
+@media screen and (width >= 67.5em) {
+  
+  .section-catalogue {
+    width: 100%;
+    margin: 10px 0;
+    align-items: flex-start;
+    justify-content: flex-start;
+    position: absolute;
+    left: 250px;
+  }
+
+  .article-case {
+    width: 100%;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 1rem 0;
+  }
+
+  .article-case .article-info {
+    width: 100%;
+  }
+
+  .paginationBttns a:hover {
+    background-color: rgb(13, 0, 255);
+    color: white;
+  }
+}

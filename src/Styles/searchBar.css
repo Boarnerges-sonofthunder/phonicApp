@@ -1,0 +1,41 @@
+.search-box {
+    display: flex;
+    background: #020024;
+    border-radius: 0.2rem;
+    width: 260px;
+    height: 30px;
+    margin: 0 auto;
+  }
+  
+  .search-btn {
+    display: flex;
+    color: #154cc8;
+    float: right;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background: #020024;
+    justify-content: flex-end;
+    transition: 0.4s;
+  }
+  
+  .search-txt {
+    border: none;
+    background: none;
+    outline: none;
+    float: left;
+    padding: 0;
+    color: white;
+    font-size: 1rem;
+    transition: 0.4s;
+    line-height: 1.5;
+    width: 220px;
+    margin-left: 5px;
+  }
+
+  @media screen and (width >= 67.5em){
+    .search-box{
+      width: 400px;
+      margin: 0 600px;
+    }
+  }

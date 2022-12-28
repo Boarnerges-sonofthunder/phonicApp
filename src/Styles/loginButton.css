@@ -1,0 +1,27 @@
+.log-in{
+    border-bottom: #000 solid 1px;
+    display: flex;
+    align-self: center;
+    justify-content: center;
+    width: 100%;
+    background: rgb(0, 189, 22);
+    border-radius: 1rem;
+    position: absolute;
+    bottom: 1rem;
+    
+}
+
+.login-button{
+    font-size: 1rem;
+    color: white;
+    text-decoration: none;
+    outline: none;
+}
+
+@media screen and (width >= 67.5em) {
+    .log-in {
+      bottom: 0;
+      right: 0;
+      width: 200px;
+    }
+}

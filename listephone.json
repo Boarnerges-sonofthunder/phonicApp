@@ -1,0 +1,404 @@
+[
+    {
+        "name": "SamsungGalaxy Note10",
+        "prix": 388,
+        "marque": "Samsung",
+        "modele": "Galaxy Note10",
+        "image1":"https://firebasestorage.googleapis.com/v0/b/phonic-eshop.appspot.com/o/SamsungGalaxy%20Note10%2F51vXlKLceyL._AC_1.jpg?alt=media&token=ac594cc7-f179-4d5b-abe3-2c968cde6ddf",
+        "image2":"https://firebasestorage.googleapis.com/v0/b/phonic-eshop.appspot.com/o/SamsungGalaxy%20Note10%2F51G-miEvF%2BL._AC_2.jpg?alt=media&token=1d0b8991-a705-429a-8e41-27592b418a76",
+        "image3":"https://firebasestorage.googleapis.com/v0/b/phonic-eshop.appspot.com/o/SamsungGalaxy%20Note10%2F51sxSXTLt7L._AC_SL1000_3.jpg?alt=media&token=ed2dfa6d-9da2-44dc-8224-313a137525f7",
+        "image4":"https://firebasestorage.googleapis.com/v0/b/phonic-eshop.appspot.com/o/SamsungGalaxy%20Note10%2F41-7QnVKTRL._AC_SL1000_4.jpg?alt=media&token=0911edb0-051e-4235-baa8-c7a413ea7087",
+        "description": [
+            "Exécutez plusieurs applications et retournez facilement entre les présentations, les vidéos en streaming et plus encore avec le puissant processeur HyperFast",
+            "Utilisez la charge super rapide 20 pour rester connecté plus longtemps en alimentation tout au long de la journée, avec la batterie intelligente ajuste automatiquement les performances en fonction de votre utilisation",
+            "Le design fin avec un bord propre permet une prise en main ergonomique qui tient confortablement dans votre main",
+            "Utilisez Samsung Dex pour connecter votre téléphone à votre PC ou Mac OS compatible en utilisant un câble USB et accéder à toutes vos applications mobiles, documents, présentations et plus encore"
+        ]
+    },
+
+    {
+        "name": "Samsung Galaxy A51",
+        "prix": 299,
+        "marque": "Samsung",
+        "modele": "Galaxy A51",
+        "image1":"https://firebasestorage.googleapis.com/v0/b/phonic-eshop.appspot.com/o/SamsungGalaxy%20A51%2F61tB%2BH2nk6L._AC_SL1034_1.jpg?alt=media&token=f071620e-6f47-4ea5-8aae-e78099c5463e",
+        "image2":"https://firebasestorage.googleapis.com/v0/b/phonic-eshop.appspot.com/o/SamsungGalaxy%20A51%2F41GQ7y8LSPL._AC_2.jpg?alt=media&token=fcc3276a-565f-4ac4-a67c-90fe7bc19b6f",
+        "image3":"https://firebasestorage.googleapis.com/v0/b/phonic-eshop.appspot.com/o/SamsungGalaxy%20A51%2F31mnkvpz18L._AC_3.jpg?alt=media&token=ad91f2d4-fb08-4caa-b838-23ebe275e36d",
+        "image4":"https://firebasestorage.googleapis.com/v0/b/phonic-eshop.appspot.com/o/SamsungGalaxy%20A51%2F21Jtdbp9VNL._AC_4.jpg?alt=media&token=d20c2b55-28bf-45df-805a-8b64a2e73884",
+        "description": [
+            "L’écran Infinity O-Display du Galaxy A51 optimise la symétrie visuelle. Vous pouvez désormais jouer, regarder, diffuser et effectuer plusieurs tâches sans interruption sur un écran de 6,5 pour alimenté par la technologie Super AMOLED. Profitez d’une expérience de téléphone intelligent optimale grâce à une largeur de cadre minimisée et à un écran maximisé.",
+            "Passez à l’ultra haute résolution grâce à l’appareil photo principal de 48Mpx pour des photos nettes et claires, de jour comme de nuit.",
+            "Obtenez une perspective accrue grâce au champ de vision plus large de l’appareil photo ultra grand-angle. Le champ de vision à 123 degrés, similaire à celui de l’œil humain, permet de diminuer les déplacements de l’appareil lorsque vous voulez obtenir un paysage urbain parfait.",
+            "Lorsque vous profitez de la vie, vous avez besoin d’un téléphone qui dure. Une batterie de 4000 mAh typique qui vous donne la possibilité de diffuser en continu, de partager et de jouer. Et si votre batterie est faible, branchez le tout et rechargez-la au moyen d’une charge rapide de 15W."
+        ]
+    },
+
+    {
+        "name": "Google Pixel XL",
+        "prix": 320,
+        "marque": "Google",
+        "modele": "Pixel XL",
+        "image1":"https://firebasestorage.googleapis.com/v0/b/phonic-eshop.appspot.com/o/PixelXL%2F81pW62ohFzL._AC_SL1500_1.jpg?alt=media&token=4538914b-504d-4fc7-be4c-ef4f613f844a",
+        "image2":"https://firebasestorage.googleapis.com/v0/b/phonic-eshop.appspot.com/o/PixelXL%2F81mzjhO9UfL._AC_SL1500_2.jpg?alt=media&token=213727d2-92f2-4031-b685-67d971d24b49",
+        "image3":"https://firebasestorage.googleapis.com/v0/b/phonic-eshop.appspot.com/o/PixelXL%2F71gpfsXDu9L._AC_SL1500_3.jpg?alt=media&token=fd9eb269-dc3f-446f-9d1e-cc936b04082c",
+        "image4":"https://firebasestorage.googleapis.com/v0/b/phonic-eshop.appspot.com/o/PixelXL%2F816xiSOg6CL._AC_SL1500_4.jpg?alt=media&token=da2c3377-9f42-481b-945e-5ee4b7e4c5d3",
+        "description": [
+            "Mémoire: 32Go",
+            "Android 7.1 nougat",
+            "Processeur Quad-core 2.4GHz",
+            "14cm Quad HD écran tactile"
+        ]
+    },
+
+    {
+        "name": "Google Pixel 6a",
+        "prix": 476,
+        "marque": "Google",
+        "modele": "Pixel 6a",
+        "image1":"https://firebasestorage.googleapis.com/v0/b/phonic-eshop.appspot.com/o/Pixel6a%2F61ePWSuIfwL._AC_SL1500_1.jpg?alt=media&token=3e503dbf-5fa8-4053-ad0e-a5037cf7dc53",
+        "image2":"https://firebasestorage.googleapis.com/v0/b/phonic-eshop.appspot.com/o/Pixel6a%2F71a1qTPpg-L._AC_SL1500_2.jpg?alt=media&token=5ab4cb4b-b02b-496b-b267-fbb029882121",
+        "image3":"https://firebasestorage.googleapis.com/v0/b/phonic-eshop.appspot.com/o/Pixel6a%2F71cllz2mLbL._AC_SL1500_3.jpg?alt=media&token=06e2f636-ca7a-46b2-bbd9-9fe9ae8944ed",
+        "image4":"https://firebasestorage.googleapis.com/v0/b/phonic-eshop.appspot.com/o/Pixel6a%2F81nxUaVuRjL._AC_SL1500_4.jpg?alt=media&token=bb6c0fc6-e8cf-44d5-9f20-92760fcff6fc",
+        "description": [
+            "Google Tensor rend le Pixel 6a intelligent, sûr et puissant. C'est la première puce conçue par Google uniquement pour Pixel ",
+            "La batterie adaptative Pixel peut durer plus de 24 heures. Il apprend vos applications préférées, de sorte qu'il ne gaspille pas d'énergie sur celles que vous utilisez rarement.",
+            "Avec Live Translate, vous pouvez discuter en 11 langues, interpréter des conversations face à face et traduire des signes avec un appareil photo.",
+            "Avec Magic Eraser dans Google Photos, vous pouvez facilement enlever les distractions ou changer la couleur et la luminosité afin que les objets se fondent parfaitement."
+        ]
+    },
+
+    {
+        "name": "LG Velvet",
+        "prix": 350,
+        "marque": "LG",
+        "modele": "Velvet",
+        "image1":"https://firebasestorage.googleapis.com/v0/b/phonic-eshop.appspot.com/o/LGVelvet%2F61%2BUJTngkiS._AC_SL1500_1.jpg?alt=media&token=bc185f5a-174d-4396-a0ea-f53c7c3571e3",
+        "image2":"https://firebasestorage.googleapis.com/v0/b/phonic-eshop.appspot.com/o/LGVelvet%2F616fXJxWwHS._AC_SL1500_2.jpg?alt=media&token=a4bffc6e-842d-48fd-ad0f-57c6c506e1a6",
+        "image3":"https://firebasestorage.googleapis.com/v0/b/phonic-eshop.appspot.com/o/LGVelvet%2F41c0lb-UplS._AC_SL1500_3.jpg?alt=media&token=35e5be2a-0984-4291-96e0-838898561f1b",
+        "image4":"https://firebasestorage.googleapis.com/v0/b/phonic-eshop.appspot.com/o/LGVelvet%2F31fVvLQStfS._AC_SL1500_4.jpg?alt=media&token=e2f284b3-ff6c-4a31-8dec-4af09a1aac27",
+        "description": [
+            "Affichage : écran 6,8",
+            "Android 10",
+            "Stockage : 128 Go + 6 Go"
+        ]
+    },
+
+    {
+        "name": "LG Velours",
+        "prix": 329,
+        "marque": "LG",
+        "modele": "Velours",
+        "image1":"https://firebasestorage.googleapis.com/v0/b/phonic-eshop.appspot.com/o/LGVelours%2F61eWYz4G0yL._AC_SL1000_1.jpg?alt=media&token=3b6437b8-6d7e-47d7-b9c4-2cec741017ba",
+        "image2":"https://firebasestorage.googleapis.com/v0/b/phonic-eshop.appspot.com/o/LGVelours%2F51JfqR81xFL._AC_SL1000_2.jpg?alt=media&token=44d315c5-4834-4baf-a43e-7d54f67ec8fa",
+        "image3":"https://firebasestorage.googleapis.com/v0/b/phonic-eshop.appspot.com/o/LGVelours%2F51p2PCImKJL._AC_SL1000_3.jpg?alt=media&token=43fbea01-1de2-4222-8e65-93a05c404985",
+        "image4":"https://firebasestorage.googleapis.com/v0/b/phonic-eshop.appspot.com/o/LGVelours%2F61jnTtgeCGL._AC_SL1147_4.jpg?alt=media&token=0a738003-463b-4c2a-aff5-ba8e9afc5b31",
+        "description": [
+            "Écran OLED FullVision de 6,8, 2460 x 1080 pixels, batterie de 4300 mAh avec charge rapide, Bluetooth 5.1",
+            "128 Go de ROM, 6 Go de RAM, Qualcomm Snapdragon 765G 5G, Octa-core, Adreno 620 ",
+            "Triple caméra arrière : standard 48 MP + 8 MP ultra large + 5 MP de profondeur, caméra frontale : 16 MP, certifiée IP68, conforme MIL-STD-810G",
+            "Chipset Qualcomm Snapdragon 765G Cores Octa-core"
+        ]
+    },
+
+    {
+        "name": "LG V60 ThinQ",
+        "prix": 379,
+        "marque": "LG",
+        "modele": "V60 ThinQ",
+        "image1":"https://firebasestorage.googleapis.com/v0/b/phonic-eshop.appspot.com/o/LGV60ThinQ%2F51eR574Gm3L._AC_SL1500_1.jpg?alt=media&token=a71134b7-690c-491f-9637-b5e50df32a23",
+        "image2":"https://firebasestorage.googleapis.com/v0/b/phonic-eshop.appspot.com/o/LGV60ThinQ%2F51e8IgOMn-L._AC_SL1333_2.jpg?alt=media&token=7a7c2a33-9893-4cf3-956c-530b721e9fa5",
+        "image3":"https://firebasestorage.googleapis.com/v0/b/phonic-eshop.appspot.com/o/LGV60ThinQ%2F41cjzSD6gmL._AC_SL1207_3.jpg?alt=media&token=bd2cfe12-8122-4207-8cd0-dd05437fb14d",
+        "image4":"https://firebasestorage.googleapis.com/v0/b/phonic-eshop.appspot.com/o/LGV60ThinQ%2F619d7FS9oPL._AC_SL1499_4.jpg?alt=media&token=123a8027-5865-4777-9c92-e35a4298ca02",
+        "description": [
+            "Enregistrement 8K - Détail époustouflant Ce sont les petites choses qui rendent la vie spéciale - capturez-les à 16 fois la résolution de la HD. Zoom avant et voir les détails clairement, comme des mèches de cheveux ou des brins d'herbe.",
+            "La 5G à son cœur Découvrez de solides connexions et une efficacité énergétique extrême avec la plate-forme mobile Qualcomm Snapdragon 865 5G.",
+            "Zoom sur Plus 64 MP caméra arrière. Prenez des photos brillantes et haute résolution.",
+            "LG Pay - Un moyen rapide et sécurisé de payer Laissez votre portefeuille à la maison. LG Pay fonctionne pratiquement n'importe où, à la fois sur les terminaux NFC et à bande magnétique. Stockez toutes vos cartes au même endroit et envoyez des cartes-cadeaux directement depuis l'application."
+        ]
+    },
+
+    {
+        "name": "LG V20 H910a",
+        "prix": 174,
+        "marque": "LG",
+        "modele": "V20 H910a",
+        "image1":"https://firebasestorage.googleapis.com/v0/b/phonic-eshop.appspot.com/o/LGV20H910a%2F61pfBDFzIDL._AC_SL1500_1.jpg?alt=media&token=a52674a7-9a14-42aa-8424-40d182961d1f",
+        "image2":"https://firebasestorage.googleapis.com/v0/b/phonic-eshop.appspot.com/o/LGV20H910a%2F41BoDzriBuL._AC_2.jpg?alt=media&token=13b7e2f6-9247-4e69-9119-30d00389b69c",
+        "image3":"https://firebasestorage.googleapis.com/v0/b/phonic-eshop.appspot.com/o/LGV20H910a%2F41s2IADV9XL._AC_3.jpg?alt=media&token=91b9ad23-bfa2-48d5-a81b-7ee5e179749b",
+        "image4":"https://firebasestorage.googleapis.com/v0/b/phonic-eshop.appspot.com/o/LGV20H910a%2F81epJYITmdL._AC_SL1500_4.jpg?alt=media&token=8b479fbd-4a87-41d0-9a13-d86eb70e72a5",
+        "description": [
+            "Deux caméras arrière ; 16 MP + 8 MP avec objectif grand angle, lumière pour selfie et prise de vue gestuelle, prenez un selfie sans toucher le téléphone ",
+            "Android 7.0 Nougat OS ; magnifique écran quad-HD de 14,5 cm, offre des couleurs éclatantes et un contraste profond",
+            "Processeur quad-core puissant ; chipset Qualcomm Snapdragon 820 ",
+            "Batterie 3200mAh (amovible) Mémoire Interne 64Go + Emplacement Carte MicroSD pour Mémoire Extensible "
+        ]
+    },
+
+    {
+        "name": "LG ThinQ V40 Aurora",
+        "prix": 205,
+        "marque": "LG",
+        "modele": "ThinQ V40 Aurora",
+        "image1":"https://firebasestorage.googleapis.com/v0/b/phonic-eshop.appspot.com/o/LGThinQV40Aurora%2F61gn8GrSZZL._AC_SL1500_1.jpg?alt=media&token=bfc5b372-7dfc-4115-85a2-c6dcb8fbf493",
+        "image2":"https://firebasestorage.googleapis.com/v0/b/phonic-eshop.appspot.com/o/LGThinQV40Aurora%2F61sTsCtFYRL._AC_SL1500_2.jpg?alt=media&token=56cd73ae-6e3a-49da-a157-bb11a5fc1fbd",
+        "image3":"https://firebasestorage.googleapis.com/v0/b/phonic-eshop.appspot.com/o/LGThinQV40Aurora%2F51Di1M37McL._AC_SL1500_3.jpg?alt=media&token=87e2f18c-fd8a-494d-8da6-89cff281fffd",
+        "image4":"https://firebasestorage.googleapis.com/v0/b/phonic-eshop.appspot.com/o/LGThinQV40Aurora%2F51C8tBooAGL._AC_SL1500_4.jpg?alt=media&token=7c14b7b1-ad76-42f1-a9d0-eb6dad5d5e97",
+        "description": [
+            "Insérez simplement votre carte SIM activée et le tour est joué ",
+            "5 caméras. 3 arrière (standard 12 MP + zoom 12 MP + grand angle 16 MP + double caméra à selfie avant).",
+            "Les caméras AI disposent de « Triple Shot » (1 clic ; 3 images), « CINE » (transformez les instantanés en photos vivantes mobiles). ",
+            "DTS :X Haut-parleur 3D Surround Sound BoomBox Hi-Fi Quad-DAC 32 bits "
+        ]
+    },
+
+    {
+        "name": "LG Q STYLO PLUS",
+        "prix": 349,
+        "marque": "LG",
+        "modele": "Q STYLO PLUS",
+        "image1":"https://firebasestorage.googleapis.com/v0/b/phonic-eshop.appspot.com/o/LGQSTYLOPLUS%2F51Jh2slhSML._AC_SL1330_1.jpg?alt=media&token=2f955d41-85da-4b16-9cdf-085609280a3a",
+        "image2":"https://firebasestorage.googleapis.com/v0/b/phonic-eshop.appspot.com/o/LGQSTYLOPLUS%2F41PaNaqIhLL._AC_2.jpg?alt=media&token=dba897b4-53a8-4e89-a6f9-319b35b18e87",
+        "image3":"https://firebasestorage.googleapis.com/v0/b/phonic-eshop.appspot.com/o/LGQSTYLOPLUS%2F51NgMUkJECL._AC_SL1215_3.jpg?alt=media&token=4f9bcc1e-bec7-43da-861b-1b2d35e0438a",
+        "image4":"https://firebasestorage.googleapis.com/v0/b/phonic-eshop.appspot.com/o/LGQSTYLOPLUS%2F51iSrnEH6dL._AC_SL1500_4.jpg?alt=media&token=fd3eb6e0-b163-4f41-9bae-61df0182bb6c",
+        "description": [
+            "Système d'exploitation : Android 8.1 (Oreo)",
+            "Stockage 32 Go "
+        ]
+    },
+
+    {
+        "name": "LG K92 5G",
+        "prix": 279,
+        "marque": "LG",
+        "modele": "K92 5G",
+        "image1":"https://firebasestorage.googleapis.com/v0/b/phonic-eshop.appspot.com/o/LGK925G%2F51RXjipdBML._AC_SL1200_1.jpg?alt=media&token=c33a4f67-3473-4af7-a78c-f3b6ab9a9a3e",
+        "image2":"https://firebasestorage.googleapis.com/v0/b/phonic-eshop.appspot.com/o/LGK925G%2F51DUuDs8RYL._AC_2.jpg?alt=media&token=2d94b10f-e62b-49cd-87af-0f521d124713",
+        "image3":"https://firebasestorage.googleapis.com/v0/b/phonic-eshop.appspot.com/o/LGK925G%2F41t7iVNDbcL._AC_3.jpg?alt=media&token=f26055a9-4639-4041-855a-4c92732b1a20",
+        "image4":"https://firebasestorage.googleapis.com/v0/b/phonic-eshop.appspot.com/o/LGK925G%2F21we2idhAOL._AC_4.jpg?alt=media&token=f6390754-a010-4eda-90dc-cdb6b4e15b55",
+        "description": [
+            "L'appareil fonctionne sur un Android 10 avec un processeur Octa-core (2x2.0 GHz Kryo 560 Gold et 6x1.7 GHz Kryo 560 Silver)",
+            "128GB 6GB RAM de mémoire intégrée",
+            "Cet appareil dispose d'un chipset Qualcomm SM6350 Snapdragon 690 5G (8 nm)",
+            "La taille de l'écran principal est de 6,7 pouces, 42 pouces 2 avec 1080 x 2400 pixels"
+        ]
+    },
+
+    {
+        "name": "LG K30",
+        "prix": 169,
+        "marque": "LG",
+        "modele": "K30",
+        "image1":"https://firebasestorage.googleapis.com/v0/b/phonic-eshop.appspot.com/o/LGK30%2F31S9HBttlKL._AC_1.jpg?alt=media&token=a7b776ce-0caa-4333-9b94-dda5401d0914",
+        "image2":"https://firebasestorage.googleapis.com/v0/b/phonic-eshop.appspot.com/o/LGK30%2F31S9HBttlKL._AC_1.jpg?alt=media&token=a7b776ce-0caa-4333-9b94-dda5401d0914",
+        "image3":"https://firebasestorage.googleapis.com/v0/b/phonic-eshop.appspot.com/o/LGK30%2F31S9HBttlKL._AC_1.jpg?alt=media&token=a7b776ce-0caa-4333-9b94-dda5401d0914",
+        "image4":"https://firebasestorage.googleapis.com/v0/b/phonic-eshop.appspot.com/o/LGK30%2F41wa1cWtLjL._AC_4.jpg?alt=media&token=871483d4-11e7-4cd2-b36b-64ec795fe294",
+        "description": [
+            "Les couches intérieures douces et extérieures rigides absorbent et dévie les impacts, accès ouvert aux ports et haut-parleurs",
+            "L'écran de 5,45 po pratiquement sans cadre vous hypnotise et vous donne l'impression de faire partie de chaque scène. Grâce au vaste espace de divertissement, laissez-vous immerger chaque fois que vous regardez du contenu sur votre téléphone.",
+            "Chargez la pile une fois et profitez-en toute la journée. Profitez de 8,9 h à 10,7 h de lecture, soit 20% d'amélioration, lorsque vous utilisez l'écran à pleine luminosité. Maintenant, maximisez l'utilisation de votre téléphone sans penser à votre chargeur.",
+            "Faites passer vos égoportraits à un niveau supérieur. Ajoutez une touche créative à vos portraits au moyen de l'effet bokeh. Le sujet ressort nettement sur un arrière-plan flou."
+        ]
+    },
+
+    {
+        "name": "LG G7 ThinQ",
+        "prix": 207,
+        "marque": "LG",
+        "modele": "G7 ThinQ",
+        "image1":"https://firebasestorage.googleapis.com/v0/b/phonic-eshop.appspot.com/o/LGG7ThinQ%2F51HRKq7mbHL._AC_SL1000_1.jpg?alt=media&token=e1dbee6e-c169-4c07-97e5-f744c3d3edf7",
+        "image2":"https://firebasestorage.googleapis.com/v0/b/phonic-eshop.appspot.com/o/LGG7ThinQ%2F51HKxTgQ0IL._AC_SL1500_2.jpg?alt=media&token=7d7caef9-7b86-43b2-bda2-6017af0fa456",
+        "image3":"https://firebasestorage.googleapis.com/v0/b/phonic-eshop.appspot.com/o/LGG7ThinQ%2F511oR1cnUyL._AC_SL1500_3.jpg?alt=media&token=2f2b9055-4e2c-4aaf-b81a-3441fefaa7af",
+        "image4":"https://firebasestorage.googleapis.com/v0/b/phonic-eshop.appspot.com/o/LGG7ThinQ%2F617n7R33PvL._AC_SL1154_4.jpg?alt=media&token=78ac9b77-d467-4eef-ac10-d21417b28573",
+        "description": [
+            "Le G7 ThinQ offre un œil créatif vous aidant à prendre la photo parfaite. L'APPAREIL PHOTO IA analyse les sujets dans votre cadre et donne des recommandations faciles sur la façon d'améliorer vos clichés.",
+            "Le G7ThinQ utilise son espace interne comme une chambre de résonance afin d'amplifier les basses et de livrer une expérience audio puissante et haut de gamme, qui remplit la pièce.",
+            "Tirez le meilleur de chaque moment avec un appareil photo si intelligent qu'il sait lorsque l'image est trop sombre et augmente automatiquement la luminosité dans chaque prise.",
+            "Votre monde vient de s'illuminer. La luminosité amplifiée du G7ThinQ offre une sensationnelle expérience visuelle de 1 000 nits, même à la lumière directe du soleil. Alors sortez et profitez de la vue!"
+        ]
+    },
+
+    {
+        "name": "LG G6",
+        "prix": 234,
+        "marque": "LG",
+        "modele": "G6",
+        "image1":"https://firebasestorage.googleapis.com/v0/b/phonic-eshop.appspot.com/o/LGG6%2F41RMzrFt93L._AC_1.jpg?alt=media&token=1d34fc3c-4465-4437-bf5e-07df4e63bca7",
+        "image2":"https://firebasestorage.googleapis.com/v0/b/phonic-eshop.appspot.com/o/LGG6%2F41FF1Qd2xOL._AC_SL1000_2.jpg?alt=media&token=26e0285f-3572-4d6d-b22c-e2ee0944d4c6",
+        "image3":"https://firebasestorage.googleapis.com/v0/b/phonic-eshop.appspot.com/o/LGG6%2F31Qja4v%2BFAL._AC_3.jpg?alt=media&token=e6ce0d7c-c8e3-4af7-a84c-9b58b0c7cce9",
+        "image4":"https://firebasestorage.googleapis.com/v0/b/phonic-eshop.appspot.com/o/LGG6%2F21kKCQv4PfL._AC_4.jpg?alt=media&token=a761ed2c-be30-4988-9fef-a51a421a0451",
+        "description": [
+            "Le LG G6 propose un écran de 5,7 po dans un téléphone attrayant et élégant, qui tient confortablement dans une main.",
+            "L'écran FullVision du LG G6 vous permet d'avoir un téléphone avec un écran plus grand. Il offre plus de place pour texter, naviguer sur des pages Web et jouer à des jeux dans un appareil élégant et facile à tenir. ",
+            "La fonction d'appareil photo Carré permet de diviser l'écran 18:9 en deux carrés, ce qui fait que les utilisateurs peuvent prendre et examiner des photos simultanément. Amusez-vous encore plus avec vos photos et vidéos en utilisant l'un des quatre modes d'appareil photo Carré.",
+            "Le LG G6 avec Dolby VisionMC transforme votre expérience mobile et offre une luminosité, un contraste et une couleur incroyables. Jumelé à l'affichage QHD+ de 18:9, le LG G6 produit une visualisation cinématographique immersive et plus authentique."
+        ]
+    },
+
+    {
+        "name": "LG G3",
+        "prix": 225,
+        "marque": "LG",
+        "modele": "G3",
+        "image1":"https://firebasestorage.googleapis.com/v0/b/phonic-eshop.appspot.com/o/LGG3%2F61fY7lGtZDL._AC_SL1500_1.jpg?alt=media&token=82f2dc57-e461-491d-aabf-86979d813eb3",
+        "image2":"https://firebasestorage.googleapis.com/v0/b/phonic-eshop.appspot.com/o/LGG3%2F61oQGo2rMoL._AC_SL1500_2.jpg?alt=media&token=13ea7a9e-f825-4622-8473-bee259e1bcc7",
+        "image3":"https://firebasestorage.googleapis.com/v0/b/phonic-eshop.appspot.com/o/LGG3%2F61DdLfQfVuL._AC_SL1500_3.jpg?alt=media&token=d113f3d2-7efb-43ea-be35-9ea0c1668abb",
+        "image4":"https://firebasestorage.googleapis.com/v0/b/phonic-eshop.appspot.com/o/LGG3%2F41lojxwyU-L._AC_4.jpg?alt=media&token=be7fc6b0-a623-4976-876e-92a709eb228e",
+        "description": [
+            "Le téléphone comporte un processeur quad-core snapdragon 801 (AC) à 2,45GHz",
+            "16Go d'espace de stockage avec 2Go de RAM et une autre avec 32Go d'espace de stockage et avec 3Go de RAM",
+            "e téléphone de LG a aussi un port infrarouge pour contrôler télévision, chaîne hi-fi, etc."
+        ]
+    },
+
+    {
+        "name": "iPhone Xs Max",
+        "prix": 444,
+        "marque": "Apple",
+        "modele": "Xs Max",
+        "image1":"https://firebasestorage.googleapis.com/v0/b/phonic-eshop.appspot.com/o/iPhoneXsMax%2F71XCarbBfLL._AC_SL1227_1.jpg?alt=media&token=67c356b5-a7c8-4d30-9e2c-233b3f63c736",
+        "image2":"https://firebasestorage.googleapis.com/v0/b/phonic-eshop.appspot.com/o/iPhoneXsMax%2F71HdXg3zaVL._AC_SL1444_2.jpg?alt=media&token=a4131de5-9766-4e53-a178-d400dd8a2996",
+        "image3":"https://firebasestorage.googleapis.com/v0/b/phonic-eshop.appspot.com/o/iPhoneXsMax%2F41rKo-WwEQL._AC_3.jpg?alt=media&token=e5154915-30e2-479a-809c-85a2e55bd6fb",
+        "image4":"https://firebasestorage.googleapis.com/v0/b/phonic-eshop.appspot.com/o/iPhoneXsMax%2F31jvVHgV4UL._AC_4.jpg?alt=media&token=e60c2b2d-496a-481c-bc34-056089867d23",
+        "description": [
+            "Double appareil photo grand angle et téléobjectif 12 Mpx",
+            "Indice de protection IP68 (profondeur maximale de 2 mètres pendant 30 minutes maximum) défini par la norme 60529 de la CEI",
+            "Enregistrement vidéo 4K à 24, 30 ou 60 i/s",
+            "Utilisez votre voix pour envoyer des messages, définir des rappels et faire plus encore"
+        ]
+    },
+
+    {
+        "name": "iPhone13 Pro Max",
+        "prix": 1670,
+        "marque": "Apple",
+        "modele": "13 Pro Max",
+        "image1":"https://firebasestorage.googleapis.com/v0/b/phonic-eshop.appspot.com/o/iPhone13ProMax%2F51UtM-A3fdL._AC_SL1000_1.jpg?alt=media&token=007a6ef9-ad9b-40b4-8d2c-b5f67d37d64b",
+        "image2":"https://firebasestorage.googleapis.com/v0/b/phonic-eshop.appspot.com/o/iPhone13ProMax%2F51kVvsTzVhL._AC_SL1000_2.jpg?alt=media&token=010d73fa-556b-4c4e-acbf-3d1670d4f5e0",
+        "image3":"https://firebasestorage.googleapis.com/v0/b/phonic-eshop.appspot.com/o/iPhone13ProMax%2F51u%2BQLrHn-L._AC_SL1000_3.jpg?alt=media&token=1fd57bd4-d1de-4846-90ec-3d5b76bfee4d",
+        "image4":"https://firebasestorage.googleapis.com/v0/b/phonic-eshop.appspot.com/o/iPhone13ProMax%2F418R7s-mnvL._AC_SL1000_4.jpg?alt=media&token=2050d7f9-2bd5-46fa-8b7f-1520362bda32",
+        "description": [
+            "Écran Super Retina XDR de 6,7 avec ProMotion. Téléchargements ultra-rapides 5G, streaming de haute qualité ",
+            "Mode cinématographique en 1080p à 30 fps. Enregistrement vidéo Dolby Vision HDR jusqu'à 4K à 60 fps. Zoom optique 6x",
+            "Puce bionique A15. Nouveau processeur 6 cœurs avec 2 performances et 4 cœurs d'efficacité. Nouveau processeur graphique 5 cœurs. Moteur neural à 16 cœurs ",
+            "Jusqu'à 28 heures de lecture vidéo. Face ID. Façade en céramique. Acier inoxydable de qualité chirurgicale "
+        ]
+    },
+
+    {
+        "name": "iPhone1 2Pro Max",
+        "prix": 938,
+        "marque": "Apple",
+        "modele": "12 Pro Max",
+        "image1":"https://firebasestorage.googleapis.com/v0/b/phonic-eshop.appspot.com/o/iPhone12ProMax%2F710BiaUyk4L._AC_SL1500_1.jpg?alt=media&token=6483a710-86e9-4c1a-ae9e-e62f79268371",
+        "image2":"https://firebasestorage.googleapis.com/v0/b/phonic-eshop.appspot.com/o/iPhone12ProMax%2F61repQYFMBL._AC_SL1500_2.jpg?alt=media&token=37178953-9b88-4889-8496-5b7331889dee",
+        "image3":"https://firebasestorage.googleapis.com/v0/b/phonic-eshop.appspot.com/o/iPhone12ProMax%2F71wbDnC6q5L._AC_SL1500_3.jpg?alt=media&token=b1476dde-5b8c-4159-b170-ea55dbd1d179",
+        "image4":"https://firebasestorage.googleapis.com/v0/b/phonic-eshop.appspot.com/o/iPhone12ProMax%2FiPhone12ProMax_4.webp_4.webp?alt=media&token=f25d2e1d-826f-4711-b64c-21350188a146",
+        "description": [
+            "OLED tout écran de 6,7 pouces (diagonale)",
+            "Système photo pro 12 Mpx : ultra grand‑angle, grand‑angle et téléobjectif",
+            "Enregistrement vidéo HDR avec Dolby Vision jusqu’à 30 i/s",
+            "Activation par la caméra TrueDepth pour la reconnaissance faciale"
+        ]
+    },
+
+    {
+        "name": "iPhone11 Pro",
+        "prix": 599,
+        "marque": "Apple",
+        "modele": "11 Pro",
+        "image1":"https://firebasestorage.googleapis.com/v0/b/phonic-eshop.appspot.com/o/iPhone11Pro%2F81ldhum0M4L._AC_SL1500_1.jpg?alt=media&token=dcc5b903-fbfc-45cd-a2fb-db6cbc673ac6",
+        "image2":"https://firebasestorage.googleapis.com/v0/b/phonic-eshop.appspot.com/o/iPhone11Pro%2F41aSXuWNaHL._AC_SL1200_2.jpg?alt=media&token=fce8f83d-3ade-4545-9a02-c4dcb593245c",
+        "image3":"https://firebasestorage.googleapis.com/v0/b/phonic-eshop.appspot.com/o/iPhone11Pro%2F41J6XlSH8bL._AC_SL1200_3.jpg?alt=media&token=15056b33-993c-4f78-9b8b-608b455be805",
+        "image4":"https://firebasestorage.googleapis.com/v0/b/phonic-eshop.appspot.com/o/iPhone11Pro%2F71XwxntXirL._AC_SL1500_4.jpg?alt=media&token=00f3ff07-e90f-4f9b-8b73-e4baa3fa4e5b",
+        "description": [
+            "Écran DELO Super Retina XDR de 6,5po ",
+            "Puce A13 Bionic avec Neural Engine de 3ᵉgénération ",
+            "Lecture vidéo: jusqu’à 20 heures",
+            "Trois caméras de 12Mpx (ultra grand-angle, grand-angle et téléobjectif) "
+        ]
+    },
+
+    {
+        "name": "iPhone7 Plus",
+        "prix": 360,
+        "marque": "Apple",
+        "modele": "7 Plus",
+        "image1":"https://firebasestorage.googleapis.com/v0/b/phonic-eshop.appspot.com/o/iPhone7Plus%2F61qVymPBuJL._AC_SL1000_1.jpg?alt=media&token=65a1eb56-65ea-483f-ab5d-f0109449cb80",
+        "image2":"https://firebasestorage.googleapis.com/v0/b/phonic-eshop.appspot.com/o/iPhone7Plus%2F51N1mZvuH4L._AC_SL1000_2.jpg?alt=media&token=d58af550-c618-425f-98e3-09599ee5ed80",
+        "image3":"https://firebasestorage.googleapis.com/v0/b/phonic-eshop.appspot.com/o/iPhone7Plus%2Fcsm_intro_iphone7Plus_6f784d2d0f_3.jpg?alt=media&token=da19e63b-52e2-4ecd-b9ed-780de8ec767f",
+        "image4":"https://firebasestorage.googleapis.com/v0/b/phonic-eshop.appspot.com/o/iPhone7Plus%2Fapple-iphone7_landing_full.jpg.og_4.jpg?alt=media&token=9947ef4f-e9cd-4d26-9094-8bae79696521",
+        "description": [
+            "Caméra HD FaceTime 7 MP avec flash Retina, résistant à l'eau et à la poussière, enregistrement vidéo 4K à 30 fps et enregistrement vidéo slo-mo pour 1080p à 120 fps avec capteur tactile intégré ",
+            "Appareil photo 12 MP, stabilisation d'image optique, flash True Tone Quad-LED et photos en direct LTE Advanced jusqu'à 450 Mbit/s et Wi-Fi 802.11a/b/g/n/ac avec MIMO iOS 10 et iCloud "
+        ]
+    },
+
+    {
+        "name": "Huawei P40 Lite",
+        "prix": 347,
+        "marque": "Huawei",
+        "modele": "P40 Lite",
+        "image1":"https://firebasestorage.googleapis.com/v0/b/phonic-eshop.appspot.com/o/HuaweiP40Lite%2F61MEZzzBKwL._AC_SL1500_1.jpg?alt=media&token=a48916b7-40f8-48ac-b3a3-4c79d08e735a",
+        "image2":"https://firebasestorage.googleapis.com/v0/b/phonic-eshop.appspot.com/o/HuaweiP40Lite%2F41Knt5eFkKL._AC_2.jpg?alt=media&token=fbe7496a-4ab8-4c91-91c4-97b435f01d81",
+        "image3":"https://firebasestorage.googleapis.com/v0/b/phonic-eshop.appspot.com/o/HuaweiP40Lite%2F41tKUVdtzsL._AC_3.jpg?alt=media&token=f56a7d6d-1614-422e-98f6-295de5b7a1cc",
+        "image4":"https://firebasestorage.googleapis.com/v0/b/phonic-eshop.appspot.com/o/HuaweiP40Lite%2F31Uxfx83odL._AC_SL1500_4.jpg?alt=media&token=29d9c858-f993-424f-b6fc-27ca4dbd5936",
+        "description": [
+            "Écran LCD LTPS IPS 16,5 cm, HDR10, 1080 x 2400 pixels ",
+            "128 Go de stockage, 6 Go de RAM, NM (Nano Memory), jusqu'à 256 Go (utilise une fente SIM partagée) ",
+            "Android 10, EMUI 10.1, No Google Play Services, Kirin 820 5G (7nm), Octa-Core (1 x 2,36 GHz Cortex-A76 & 3 x 2,22 GHz Cortex-A76 & 4 x 1,84 GHz Cortex-A55) ",
+            "64 MP, F/1.8, 26 mm (large), PDAF 8 MP, F/2.4, 17 mm (ultralarge) 2 MP, F/2.4, (macro) 2 MP, F/2.4, (profondeur), avant : 16 MP, F/2.0, (large), enregistrement vidéo : 4 K @ 30 fps, 1080 p@ p@ 0 fps "
+        ]
+    },
+
+    {
+        "name": "Huawei Mate 40 Pro",
+        "prix": 647,
+        "marque": "Huawei",
+        "modele": "Mate 40 Pro",
+        "image1":"https://firebasestorage.googleapis.com/v0/b/phonic-eshop.appspot.com/o/HuaweiMate40Pro%2F61JI-I2sRRL._AC_SL1500_1.jpg?alt=media&token=3d3a5ce6-047a-4f09-846c-38ae2712e0be",
+        "image2":"https://firebasestorage.googleapis.com/v0/b/phonic-eshop.appspot.com/o/HuaweiMate40Pro%2F51l4X8tRpGL._AC_SL1500_2.jpg?alt=media&token=f774b4ea-5aa5-48cc-b81b-623053aadaa6",
+        "image3":"https://firebasestorage.googleapis.com/v0/b/phonic-eshop.appspot.com/o/HuaweiMate40Pro%2F5178J9mXPoL._AC_SL1500_3.jpg?alt=media&token=4aff92f0-a405-4066-8bd4-0f876cc920d4",
+        "image4":"https://firebasestorage.googleapis.com/v0/b/phonic-eshop.appspot.com/o/HuaweiMate40Pro%2F51Dm8wpTUbL._AC_SL1366_4.jpg?alt=media&token=5f9922d4-87f3-49d6-bfde-470dbfb0f805",
+        "description": [
+            "6,6 | Écran tactile capacitif OLED | 16 M de couleurs, 1200 x 2640 pixels (~ 441 pppi) ",
+            "256 Go de stockage | 8 Go de RAM | Jusqu'à 256 Go NM (Nano Memory) – utilise un emplacement SIM partagé ",
+            "Android 10.0 (AOSP + HMS); EMUI 10.1 | HiSilicon Kirin 990 5G (7 nm+) | Octa-core (2 x 2,86 GHz Cortex-A76 & 2 x 2,36 GHz Cortex-A76 & 4 x 1,95 GHz Cortex-A5 GHz). Mali-G7. 6 MP16 ",
+            "Le Huawei P40 Pro 5G est livré avec la nouvelle application Huawei et n'est pas compatible avec Google Play Store et services. En savoir plus sur la galerie de l'application Huawei sur la communauté Huawei "
+        ]
+    },
+
+    {
+        "name": "Huawei Mate 20 Pro",
+        "prix": 575,
+        "marque": "Huawei",
+        "modele": "Mate 20 Pro",
+        "image1":"https://firebasestorage.googleapis.com/v0/b/phonic-eshop.appspot.com/o/HuaweiMate20Pro%2F71BhRtaje5L._AC_SL1000_1.jpg?alt=media&token=72f0cdeb-5b22-45e7-bac6-eadccaf955e2",
+        "image2":"https://firebasestorage.googleapis.com/v0/b/phonic-eshop.appspot.com/o/HuaweiMate20Pro%2F61-uJkdRoKL._AC_SL1000_2.jpg?alt=media&token=1034cb5e-c32b-4928-9d08-d5453a758dbb",
+        "image3":"https://firebasestorage.googleapis.com/v0/b/phonic-eshop.appspot.com/o/HuaweiMate20Pro%2F61agnoCIHUL._AC_SL1000_3.jpg?alt=media&token=b7ea1eb9-086e-4ca7-afe9-dadf4fd993aa",
+        "image4":"https://firebasestorage.googleapis.com/v0/b/phonic-eshop.appspot.com/o/HuaweiMate20Pro%2F61NOYgJhW6L._AC_SL1000_4.jpg?alt=media&token=bc174ca6-b5e0-4ce0-bf38-90fc20f25871",
+        "description": [
+            "Le meilleur appareil photo smartphone au monde est maintenant meilleur que jamais avec le nouvel objectif Leica ultra grand angle vous permettant de voir et de capturer beaucoup plus avec une large perspective. ",
+            "Le Huawei Mate20 Pro est alimenté par une batterie massive de 4200 mAh avec un Huawei SuperCharge extrêmement rapide de 40 W. ",
+            "Le Huawei Mate 20 Pro dispose d'un capteur d'empreintes digitales à l'écran. Il fonctionne comme vous l'attendez – placez votre doigt sur l'invite à l'écran pour l'authentification. ",
+            "Le Huawei Mate 20 Pro prend en charge le chargement inversé sans fil, lui permettant d'agir efficacement comme une banque d'alimentation pour charger d'autres téléphones sans fil."
+        ]
+    },
+
+    {
+        "name": "Google Pixel 6",
+        "prix": 568,
+        "marque": "Google",
+        "modele": "Pixel 6",
+        "image1":"https://firebasestorage.googleapis.com/v0/b/phonic-eshop.appspot.com/o/GooglePixel6%2F71ekhW8HBgL._AC_SL1500_1.jpg?alt=media&token=5cfe9cf3-d6ec-47a2-b7f9-ce790f5c69f0",
+        "image2":"https://firebasestorage.googleapis.com/v0/b/phonic-eshop.appspot.com/o/GooglePixel6%2F81w1Fo3xXFL._AC_SL1500_2.jpg?alt=media&token=7f591714-c578-41c3-863b-829d4e1b0a31",
+        "image3":"https://firebasestorage.googleapis.com/v0/b/phonic-eshop.appspot.com/o/GooglePixel6%2F71bNpVQeSDL._AC_SL1500_3.jpg?alt=media&token=69c1eed2-ba1d-459d-a983-8fbccfe420eb",
+        "image4":"https://firebasestorage.googleapis.com/v0/b/phonic-eshop.appspot.com/o/GooglePixel6%2F61ABay7XhlL._AC_SL1500_4.jpg?alt=media&token=c6cd6fd9-12f2-4aa3-ba19-69cc2124e86b",
+        "description": [
+            "Pixel 6 est rapide, intelligent et sécurisé, et s'adapte à vous ",
+            "Le puissant processeur Google Tensor est le premier processeur conçu par Google et fabriqué pour Pixel, il maintient votre téléphone rapide, vos jeux riches et vos informations personnelles en toute sécurité ",
+            "La caméra arrière de 50 mégapixels de pixels capture 150 % de lumière en plus pour des photos avec des couleurs plus riches et plus de détails",
+            "Outils professionnels tels que la gomme magique, le mode mouvement et le mode portrait pour garder vos photos nettes, précises et concentrées "
+        ]
+    }
+
+]
